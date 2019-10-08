@@ -4,14 +4,12 @@ return [
     'production' => false,
     'baseUrl' => 'https://artisan-static-demo.netlify.com',
     'site' => [
-        'title' => 'My Jigsaw Blog',
-        'description' => 'Personal blog of John Doe.',
+        'title' => 'Test Protsyk',
+        'description' => 'Test Protsyk',
         'image' => 'default-share.png',
     ],
     'owner' => [
-        'name' => 'John Doe',
-        'twitter' => 'johndoe',
-        'github' => 'johndoe',
+        'name' => 'Alexey Protsyk',
     ],
     'services' => [
         'analytics' => 'UA-XXXXX-Y',
